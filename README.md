@@ -1,2 +1,2 @@
-# cpp0
-C++ projects
+# LISP interpreter
+
